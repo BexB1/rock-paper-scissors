@@ -1,0 +1,65 @@
+body {
+  background-image: url("bg.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  font-family: 'Tangerine', cursive;
+}
+
+button {
+  margin: 50px 625px;
+  float: left;
+  font-size: 50px;
+  padding: 10px 25px;
+  border-radius: 10px;
+  background-color: #FFF;
+  font-family: 'Tangerine', cursive;
+}
+
+h2 {
+  font-size: 55px;
+  margin: 5px;
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-size: 65px;
+  margin: 15px;
+  letter-spacing: 10px;
+}
+
+img {
+  border-radius: 10px;
+  border: 15px solid white;
+  border-right: 65px solid white;
+  border-left: 65px solid white;
+}
+
+footer {
+  bottom: 0px;
+  padding: 10px 100px;
+  font-size: 25px;
+  line-height: 25px;
+  letter-spacing: 10px;
+  display: block;
+  background-color: #FFF;
+  height: 25px;
+  clear: both;
+}
+
+#lols {
+  margin: 25px 0px 0px 0px;
+}
+
+#board {
+  width: 75%;
+}
+
+#playerDisplay {
+  float: left;
+}
+
+#computerDisplay {
+  float: right;
+}
+
